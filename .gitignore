@@ -1,1 +1,4 @@
 env/*
+.vscode/*
+.vscode
+v1/log.txt
