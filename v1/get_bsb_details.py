@@ -16,3 +16,5 @@ def search_using_bsb(bsb):
             TableName = 'bsb-checker.bsb_list',
             Key = search_key
         )
+
+        json.loads()

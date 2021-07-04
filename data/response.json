@@ -1,0 +1,48 @@
+{
+	"Item": {
+		"last_updated": {
+			"N": "1581835958678"
+		},
+		"bsb": {
+			"S": "013-948"
+		},
+		"payment_systems": {
+			"S": "PE"
+		},
+		"postcode": {
+			"S": "4000"
+		},
+		"suburb": {
+			"S": "Brisbane"
+		},
+		"status": {
+			"S": "Active"
+		},
+		"address": {
+			"S": "(NBFI Agency to 013-000)"
+		},
+		"fi_code": {
+			"S": "ANZ"
+		},
+		"name": {
+			"S": "CBRE (V) PTY LTD ESTATE AGENCY"
+		},
+		"state": {
+			"S": "QLD"
+		}
+	},
+	"ResponseMetadata": {
+		"RequestId": "P938HAL19D81QPMP4328L2I5RBVV4KQNSO5AEMVJF66Q9ASUAAJG",
+		"HTTPStatusCode": 200,
+		"HTTPHeaders": {
+			"server": "Server",
+			"date": "Sun, 16 Feb 2020 09:58:18 GMT",
+			"content-type": "application/x-amz-json-1.0",
+			"content-length": "303",
+			"connection": "keep-alive",
+			"x-amzn-requestid": "P938HAL19D81QPMP4328L2I5RBVV4KQNSO5AEMVJF66Q9ASUAAJG",
+			"x-amz-crc32": "4011453663"
+		},
+		"RetryAttempts": 0
+	}
+}
